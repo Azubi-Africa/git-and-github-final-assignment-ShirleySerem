@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Having Fun With Pandas and Numpy Libraries           |  A repository with simple dataset to have fun :feelsgood: and practice Pandas and Numpy Libraries.           | https://github.com/ShirleySerem/Having-Fun-With-Pandas-and-Numpy-Libraries      |
+| 2 |  NYC Parking Violations Exploratory Analysis          |   This is an exploratory analysis on NYC Parking Violations dataset using Pandas and Numpy            | https://github.com/ShirleySerem/NYC-Parking-Violations-Exploratory-Analysis      |
+| 3 |  Recreation Visits by States and Parks 16            |  An Excel analysis that gives insights to recreation park visitation trends in the various States in 2016            | https://github.com/ShirleySerem/Recreation-Visits-By-States-and-Parks-16       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
